@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "658d885f32adc8824f46ae44"
+  },
+  "hacim": " 3,3011 × 1023 kg 0,055 Dünya",
+  "uydu": "Yok",
+  "ad": "Merkür",
+  "baslik": "Merkür, Güneş Sistemi'ndeki en küçük ve Güneş'e en yakın gezegen.[a] Yaklaşık 88 Dünya gününe eşit yörünge süresi ile yörüngesinde Güneş Sistemi'ndeki diğer tüm gezegenlerden daha hızlı devinir. Kendi ekseni çevresindeki dönüşünü yaklaşık 59 günde tamamlar. Bilinen hiç doğal uydusu yoktur. Adını tanrıların habercisi Roma tanrısı Merkür'den alır.",
+  "kütle": "3,3011 × 1023 kg",
+  "hız": "47,36 km/sn",
+  "image": "merkur.jpg"
+},
+{
+  "_id": {
+    "$oid": "658d899532adc8824f46ae46"
+  },
+  "hacim": "9,2843 × 1011 km30,866 Dünya",
+  "uydu": "Yok",
+  "ad": "Venüs",
+  "baslik": "Venüs, Güneş Sistemi'nde Güneş'e uzaklık bakımından ikinci sıradaki, sıcaklık bakımından ise birinci sıradaki gezegendir.Güneşe uzaklık bakımından ikinci sırada olmasına rağmen en sıcak gezegen olmasının nedeni de atmosferinin gelen güneş ışınlarının dışarı çıkmasına izin vermemesidir. Ayrıca Zühre, Çolpan veya Çoban Yıldızı olarak da bilinir. Bu gezegen adını Eski Roma tanrıçası Venüs (Eski Yunan Mitolojisi'nde Afrodit)'ten almıştır. Venüs'ün astronomik sembolü ise kadınlık sembolü ile aynıdır. Venüs, kendi ekseni etrafında, Güneş Sistemi'ndeki diğer tüm gezegenlerin aksi istikametinde döner.[13] Güneş etrafındaki dönüşünü 224,7 Dünya gününde tamamlar",
+  "hız": "35,02 km/sn",
+  "kütle": "4,8675 × 1024 kg",
+  "image": "venus.jpg"
+},
+{
+  "_id": {
+    "$oid": "658d8a8632adc8824f46ae47"
+  },
+  "ad": "Dünya",
+  "baslik": "Dünya veya Yerküre,Güneş Sistemi'nde Güneş'e en yakın üçüncü gezegen olup şu an için üzerinde yaşam ve sıvı su barındırdığı kesin olarak bilinen tek astronomik cisimdir. Radyometrik tarihleme ve diğer kanıtlara göre 4,55 milyar yıldan fazla bir süre önce oluşmuştur. Dünya'nın yer çekimi, uzaydaki diğer nesnelerle, özellikle Güneş'le ve tek doğal uydusu Ay'la etkileşime girer. Dünya'nın Güneş'in etrafındaki yörüngesi, 365,256 güneş günü, yani bir yıldız yılı sürer. Bu süre içerisinde Dünya, kendi ekseni etrafında 366,265 kez döner.",
+  "hız": "29,78 km/s",
+  "hacim": "1,08321×1012 km3",
+  "kütle": "5,97237×1024 kg",
+  "uydu": "1",
+  "image": "earth.jpg"
+},
+{
+  "_id": {
+    "$oid": "658d8b9632adc8824f46ae48"
+  },
+  "ad": "Mars",
+  "baslik": "Mars (eski Türkçede Bakır Sokım,Merih), Güneş Sistemi'nin Güneş'ten itibaren dördüncü gezegeni. Roma mitolojisindeki savaş tanrısı Mars'a ithafen adlandırılmıştır. Yüzeyindeki yaygın demir oksitten dolayı kızılımsı bir görünüme sahip olduğu için 'Kızıl Gezegen' olarak da bilinmektedir.",
+  "hız": "24,007 km/sn",
+  "hacim": "1,6318×1011 km3(0,151 Dünya)",
+  "kütle": "6,4171 × 1023 kg",
+  "uydu": "2",
+  "image": "mars.jpg"
+},
+{
+  "_id": {
+    "$oid": "658d8cf932adc8824f46ae49"
+  },
+  "ad": "Jüpiter",
+  "baslik": "Jüpiter veya Erendiz (Müşteri), Güneş Sistemi'nin en büyük gezegenidir. Güneş'ten uzaklığa göre beşinci sırada yer alır. Adını Roma mitolojisindeki tanrıların en büyüğü olan Jüpiter'den alır. Büyük ölçüde hidrojen ve helyumdan oluşmakta ve gaz devi sınıfına girmektedir.",
+  "hız": "13,07 km/s",
+  "hacim": "1,4313×1015 km3(1321 Dünya)",
+  "kütle": "1,8982×1027 kg",
+  "uydu": "95",
+  "image": "jupiter.jpg"
+},
+{
+  "_id": {
+    "$oid": "658d922c32adc8824f46ae4a"
+  },
+  "ad": "Satürn",
+  "baslik": "Satürn (eski Türkçede Sekentir(tiz),Arapçada Zühal[18]), Güneş Sistemi'nin Güneş'e yakınlık sırasına göre 6. gezegenidir. Büyüklük açısından Jüpiter'den sonra ikinci sırada gelir. Adını Yunan mitolojisindeki Kronos'tan alır. Çıplak gözle izlenebilen 5 gezegenden biri (diğerleri: Merkür, Venüs, Mars ve Jüpiter) olarak eski çağlardan beri insanoğlunun dikkatini çekmiştir. Büyük ölçüde hidrojen ve helyumdan oluşmakta ve gaz devleri sınıfına girmektedir.",
+  "hız": "9,68 km/sn",
+  "hacim": "8,2713×1014 km3(763,59 Dünya)",
+  "kütle": "5,6834×1026 kg",
+  "uydu": "146 ",
+  "image": "saturn.jpg"
+},
+{
+  "_id": {
+    "$oid": "658d932232adc8824f46ae4b"
+  },
+  "ad": "Neptün",
+  "baslik": "Neptün, Güneş Sistemi'nin sekizinci, Güneş'e en uzak ve katı yüzeyi bulunmayan gezegenidir. Gaz gezegenler sınıfında yer alan Neptün, Jüpiter ve Satürn'e kıyasla farklı yapısından ötürü buz devi olarak da sınıflandırılır. Güneş sisteminin Uranüs ile beraber en soğuk iki gezegeninden biridir. Katı yüzeye sahip olmamakla birlikte gezegenin dış katmanı genel olarak hidrojen ve helyumdan oluşur. İç katmanında ise gezegenin kütlesinin çoğu kayalık bir çekirdeğin üzerindeki sıcak ve yoğun maddelerden (su, metan ve amonyak) oluşur.[16] Adını Roma deniz tanrısı Neptunus'ten alan gezegen, Güneş Sistemi'nde çapına göre en büyük dördüncü, kütlesine göre ise en büyük üçüncü gezegendir. Dünya'dan 17 kat fazla kütlesiyle, ikizi sayılabilecek Uranüs'ten biraz daha büyük ve daha yoğundur.[17] Güneş'e olan uzaklığı ortalama 30 Astronomik birimdir.",
+  "hız": "5,43 km/s",
+  "hacim": "bilinmiyor",
+  "kütle": "1,02413×1026 kg",
+  "uydu": "14",
+  "image": "neptune.jpg"
+}]
