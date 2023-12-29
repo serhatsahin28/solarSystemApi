@@ -1,12 +1,12 @@
 
- *-Bu projenin amacı basit bir rest api oluşturmak.-
 
 Projeyi çalıştırmadan önce konsola girilecek kodlar:
 1) npm init -y
 2) npm i express mongoose ejs nodemon dotenv body-parser
    
- -Sonra .env dosyasında mongodb url bağlantınızı giriniz.
- -Mongodb koleksiyonlarını db dosyası içerisinde bulabilirsiniz.
+ - .env dosyasında mongodb url bağlantınızı giriniz.
+ 
+ -Mongodb veritabanı için gerekli olan koleksiyonları, db dosyası içerisinde bulabilirsiniz.
 
 
 
